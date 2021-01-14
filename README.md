@@ -1,7 +1,7 @@
 # redsoft
 
 ## Сайт
-```
+
 https://illyya.github.io/redsoft/
 
 ## Project setup
