@@ -80,7 +80,7 @@ export default {
           inStock: false,
           inBasket: Boolean(localStorage.getItem('3'))
         },
-      ],
+      ],      
     };
   },
   methods: {
@@ -88,7 +88,7 @@ export default {
       painting.inBasket = true;
       localStorage.setItem(index, 'true')
     }
-  }
+  },
 };
 </script>
 
